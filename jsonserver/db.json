@@ -1,0 +1,25 @@
+{
+  "companies": [
+    {
+      "name": "Coca-Cola",
+      "description": "Coca-Cola is a carbonated, sweetened soft drink and is the world's best-selling soda. A popular nickname for Coca-Cola is Coke. The Coca-Cola Company claims that the beverage is sold in more than 200 countries. Coca-Cola was first made in Columbus, Georgia.",
+      "founder": "Asa Griggs Candler",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Coca-Cola_logo.svg",
+      "website": "https://www.coca-cola.com/co/es"
+    }
+  ],
+
+  "employees": [
+    {
+      "name": "Ronald",
+      "last_name": "Ortiz",
+      "email": "ronald.ortiz@riwi.io",
+      "postion": "Trainer de Desarrollo de Software",
+      "admission_date": "01-10-2023",
+      "status": "active",
+      "cv": "enlace.com",
+      "website": "porfaolioronald.com",
+      "company_id": "por obtener"
+    }
+  ]
+}
